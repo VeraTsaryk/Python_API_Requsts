@@ -1,0 +1,2 @@
+INAPPROPRIATESTATUSCODE= "My custom error"
+FALSEANSWERJSON ="Json error"
